@@ -1,0 +1,10 @@
+[project]
+name = "personal-chatbot"
+version = "0.1.0"
+dependencies = [
+    "openai-agents",
+    "chainlit",
+    "python-dotenv",
+    "uv",
+    "litellm",
+]
